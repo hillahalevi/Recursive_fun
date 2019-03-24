@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\הילה\source\repos\project1\main.c(14): warning C4305: 'function': truncation from '__int64' to 'long'
+c:\users\הילה\source\repos\project1\main.c(19): warning C4305: 'function': truncation from '__int64' to 'long'
+c:\users\הילה\source\repos\project1\main.c(20): warning C4305: 'function': truncation from '__int64' to 'long'
+c:\users\הילה\source\repos\project1\main.c(21): warning C4305: 'function': truncation from '__int64' to 'long'
+  Project1.vcxproj -> C:\Users\הילה\source\repos\Project1\Debug\Project1.exe
